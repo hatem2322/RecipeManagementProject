@@ -1,0 +1,25 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Pancakes",
+      "ingredients": ["Flour", "Milk", "Eggs", "Sugar"],
+      "instructions": ["Mix dry ingredients", "Add wet ingredients", "Cook on pan"],
+      "nutrition": { "calories": 350, "proteinG": 8.5, "carbsG": 55, "fatG": 10 }
+    },
+    {
+      "id": 2,
+      "name": "Tomato Pasta",
+      "ingredients": ["Pasta", "Tomatoes", "Garlic", "Olive oil"],
+      "instructions": ["Boil pasta", "Prepare tomato sauce", "Combine pasta and sauce"],
+      "nutrition": { "calories": 420, "proteinG": 13, "carbsG": 68, "fatG": 12 }
+    },
+    {
+      "id": 3,
+      "name": "Greek Salad",
+      "ingredients": ["Cucumber", "Tomatoes", "Feta", "Olives"],
+      "instructions": ["Chop vegetables", "Add feta and olives", "Dress and toss salad"],
+      "nutrition": { "calories": 240, "proteinG": 7, "carbsG": 14, "fatG": 17 }
+    }
+  ]
+}
